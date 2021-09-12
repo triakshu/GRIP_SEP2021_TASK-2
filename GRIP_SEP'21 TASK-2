@@ -1,0 +1,7 @@
+Computer Vision & Internet of Things
+The Sparks Foundation GRIP September 2021
+
+Author: Akshita Trivedi
+
+# Color_Identification
+An image color detector which identifies all the colors in an image.an application through which you can automatically get the name of the color by clicking on them. So for this, we will have a data file that contains the color name and its values. Then we will calculate the distance from each color and find the shortest one.
